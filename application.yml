@@ -7,7 +7,7 @@ eureka:
 spring:
   profiles: lab3client2
 myConfig:
-  yourName: Sachin Sarawgi
+  yourName: Sachin
 
 ---
 spring:
