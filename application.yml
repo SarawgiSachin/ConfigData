@@ -5,6 +5,12 @@ eureka:
 
 ---
 spring:
+  profiles: lab3client2
+myConfig:
+  yourName: Sachin Sarawgi
+
+---
+spring:
   profiles: subject
 words: I,You,He,She,It
 
